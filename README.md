@@ -109,3 +109,13 @@ This project demonstrates how Microsoft Excel can be effectively used as a power
 The analysis highlighted valuable business opportunities by identifying the most profitable customer segment and the platforms contributing the highest sales. These insights can help businesses make informed marketing decisions, optimize promotional strategies, improve customer targeting, and enhance overall sales performance.
 
 Additionally, this project strengthened practical skills in data analysis, dashboard development, business reporting, and data visualization using Excel. It showcases the ability to work with large datasets, extract actionable insights, and present analytical findings in a clear and interactive manner suitable for real-world business decision-making.
+
+# Author
+
+## Kartik Srivastava
+
+📧 Email: kartiksrivastava275@gmail.com
+
+🔗 LinkedIn:  
+[LinkedIn Profile](https://www.linkedin.com/in/kartik-srivastava-4a7850292)
+
